@@ -1,0 +1,13 @@
+source_path,decision,package_path,reason
+/Users/dlev2617/Documents/Papers/~05-Published/European Physical Journal/EPJ-Skyway-RoadGrowth/st215010.pdf,included,paper/st215010.pdf,Final/published paper PDF for package reference.
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/NetworkGrowthCom.nlogo,included,code/netlogo/NetworkGrowthCom.nlogo,NetLogo source header identifies Minneapolis skyway network model and setup loads the packaged GIS inputs.
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/NetworkGrowthCom.html,excluded,,Optional generated NetLogo HTML export repeatedly copied as zero-byte/stale placeholder; not needed because .nlogo source is included.
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/centroids_new2_SpatialJoin6.*,included_curated_components,data/gis/centroids_new2_SpatialJoin6/,Model input for building/block centroids and office-space attributes.
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/downtown_skyways2.*,included_curated_components_with_rebuilt_prj_if_needed,data/gis/downtown_skyways2/,Observed downtown skyway network model input. PRJ filled from matching source projection when direct source PRJ copy timed out.
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/potentialblocks.*,included_geometry_with_generated_sidecars,data/gis/potentialblocks/,"Model uses this dataset only for GIS envelope; source SHP copied, SHX reconstructed, PRJ filled from matching projection, and minimal DBF generated because original 308-byte DBF would not materialize."
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/NetLogoLite.jar,excluded,,"Old runtime dependency, not paper-authored source data/code."
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/gis/,excluded,,"Third-party NetLogo GIS extension/JAR dependency, not paper-authored source data/code."
+/Users/dlev2617/Documents/Students/Arthur Huang/netLogo/NetworkGrowthModel/,excluded_duplicate_or_unverified,,Subfolder appears to duplicate inputs/model variants; selected files were slow/unreadable. Top-level NetworkGrowthCom.nlogo directly matches the paper and is readable.
+/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-WCTR-Skyways,not_copied_pointer_only,,"Earlier skyway source paper folder; already tracked as paper-2009-01 with public UMN/DRUM archive pointer, so not duplicated."
+/Users/dlev2617/Documents/Papers/~05-Published/European Physical Journal/EPJ-Skyway-RoadGrowth/Huangskyway/,excluded,,"Manuscript drafts, figures, LaTeX support, and development files are not archive targets."
+/Users/dlev2617/Documents/Papers/~05-Published/European Physical Journal/EPJ-Skyway-RoadGrowth/Skyways-revised/,excluded,,Revision and editor-letter material; not data/code for package.
