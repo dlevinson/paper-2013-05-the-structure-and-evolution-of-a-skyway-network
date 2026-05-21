@@ -1,6 +1,6 @@
 # License Status: The Structure And Evolution Of A Skyway Network
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:04:48 AEST
 
 Recorded license/access note from the verified audit row: No separate code license found in source folder; recommend assigning intended repository license at GitHub upload. Paper PDF remains subject to publisher terms.
 
