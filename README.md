@@ -1,5 +1,9 @@
 # The Structure and Evolution of a Skyway Network
 
+## Contribution
+
+This paper explains how Minneapolis's privately developed skyway system evolved from a tree-like structure into a more connected grid. Empirical network analysis and an agent-based model show how decentralized building-owner incentives, office size, accessibility, and existing centrality shaped both the timing and structure of new connections.
+
 This package contains the paper PDF, the NetLogo model source, and the GIS input files for Huang and Levinson (2013), "The Structure and Evolution of a Skyway Network," European Physical Journal: Special Topics 215(1):123-134. DOI: 10.1140/epjst/e2013-01719-1.
 
 ## Contents
